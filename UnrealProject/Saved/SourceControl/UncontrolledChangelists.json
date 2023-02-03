@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GGJ23/UnrealProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GGJ23/UnrealProject/Content/InteractableObjects/BP_Interactable_Master.uasset",
 				"C:/Users/UUGam/Documents/Game Jams/GGJ 23/GlobalGameJam23/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
